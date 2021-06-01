@@ -2,6 +2,8 @@
 
 The basic rules for my as-of-yet-not-really-named low-combat fantasy adventure system will go here.
 
+\[[THE RULES](rules/table_of_contents.md)\]
+
 There is a game that previously existed only in my imagination. It's the game that you want the game to be between fights in fantasy adventure RPGs. It isn't really relationship-oriented, and it's still about people who are particularly good at killing and perhaps are not quite connected to the communities where they live. It isn't trying to fill the niche that PbtA or BoB or even FitD fills. Although FitD comes closest. 
 
 I want to keep it fairly simple, something that could be defined at its core in a page or two. 
@@ -16,7 +18,6 @@ The "API" for this project is anything in the "rules" directory.
 
 ## TODO
 - come up with a better name
-- Add rules draft
 - write description
 - write what I plan to do with this
 - add a license
